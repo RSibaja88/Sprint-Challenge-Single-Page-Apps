@@ -43,9 +43,22 @@ main {
 header h1 {
   text-align: center;
   font-family: 'Covered By Your Grace', cursive;
+  font-size: 5.75rem;
+  color: white;
+  
+}
+
+.character-list h1 {
+  text-align: center;
+  font-family: 'Covered By Your Grace', cursive;
   font-size: 5rem;
   color: white;
   
+}
+
+.character-card {
+  width: 75%;
+  margin: 0 auto;
 }
 
 .navLinks {

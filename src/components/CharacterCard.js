@@ -43,8 +43,6 @@ const CardData = styled.div`
 `;
 
 
-
-
 return (
 <div className="character-card">
   <Card>
